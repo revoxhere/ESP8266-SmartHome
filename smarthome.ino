@@ -13,8 +13,8 @@ const int Load4 = 13; //load 4
 const int Load5 = 4; //load 5
 const int Load6 = 5; //load 6, uzywane tu jako pin pwm
 
-const char *ssid = "Dom"; //nazwa sieci
-const char *password = "07251498"; //haslo do wifi
+const char *ssid = "ssid"; //nazwa sieci
+const char *password = "pass"; //haslo do wifi
 
 //sprawy od pwm
 int brightness = 0; 
